@@ -15,4 +15,4 @@ Run project:
 exp start
 ```
 
-![alt text](https://github.com/qmir/RN.testTask/blob/master/Screenshot.png ){:height="30%" width="30%"}
+<img src="https://github.com/qmir/RN.testTask/blob/master/Screenshot.png" width="30%" height="30%">
