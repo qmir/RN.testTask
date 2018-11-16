@@ -14,3 +14,5 @@ Run project:
 ```
 exp start
 ```
+
+![alt text](https://github.com/qmir/RN.testTask/blob/master/Screenshot.png)
